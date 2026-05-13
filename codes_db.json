@@ -1,0 +1,16 @@
+{
+  "codes": {
+    "ADMIN-1087-ROI": {
+      "code": "ADMIN-1087-ROI",
+      "niveau": "ADMIN",
+      "prenom": "Nicolas",
+      "email": "admin@rekarbon.com",
+      "cree_le": "2026-05-13 14:11",
+      "expire_le": "2036-05-10",
+      "actif": true,
+      "note": "Admin",
+      "nb_connexions": 0,
+      "derniere_connexion": null
+    }
+  }
+}
