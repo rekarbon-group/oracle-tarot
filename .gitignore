@@ -1,0 +1,6 @@
+# Ne pas pusher les données sensibles
+auth/codes_db.json
+auth/historique_db.json
+__pycache__/
+*.pyc
+.env
